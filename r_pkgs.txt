@@ -6,6 +6,8 @@ gtsummary
 knitr
 maps
 mlr3
+pROC
+ranger
 tidycensus
 tidymodels
 tidyverse
