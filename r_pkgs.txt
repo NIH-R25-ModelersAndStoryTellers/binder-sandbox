@@ -1,8 +1,11 @@
 censusapi
+data.table
+DoubleML
 dml
 gtsummary
 knitr
 maps
+mlr3
 tidycensus
 tidymodels
 tidyverse
