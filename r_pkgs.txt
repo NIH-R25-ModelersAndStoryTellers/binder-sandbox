@@ -2,6 +2,7 @@ censusapi
 data.table
 DoubleML
 dml
+glmnet
 gtsummary
 knitr
 maps
